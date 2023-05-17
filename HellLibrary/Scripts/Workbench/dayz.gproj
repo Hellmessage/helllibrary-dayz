@@ -91,7 +91,7 @@ GameProjectClass {
 					Paths {
 						"scripts/editor/Workbench"
 						"scripts/editor/plugins"
-						"HellLibrary/Workbench/Editor/Plugins"
+						"HellLibrary/Scripts/Workbench/Editor/Plugins"
 					} 
 					EntryPoint ""
 				} 
